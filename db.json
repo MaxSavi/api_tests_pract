@@ -1,9 +1,9 @@
 {
   "posts": [
     {
-      "title": "Updated Post Title",
-      "author": "Updated Author",
-      "id": 1
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
     }
   ],
   "comments": [
@@ -22,15 +22,16 @@
   ],
   "book": [
     {
-      "author": "VOVKIN",
-      "book_title": "Sun",
-      "id": 1
+      "id": 1,
+      "author": "Ivanov",
+      "book_title": "Congrats!"
     }
   ],
   "games": [
     {
-      "name_of_game": "Tetris",
-      "id": 1
+      "id": 1,
+      "name_of_game": "Dota2"
     }
   ]
 }
+
