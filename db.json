@@ -1,0 +1,36 @@
+{
+  "posts": [
+    {
+      "title": "Updated Post Title",
+      "author": "Updated Author",
+      "id": 1
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "subject": [
+    {
+      "id": 1,
+      "name": "Math",
+      "teacher": "Pupkin"
+    }
+  ],
+  "book": [
+    {
+      "author": "VOVKIN",
+      "book_title": "Sun",
+      "id": 1
+    }
+  ],
+  "games": [
+    {
+      "name_of_game": "Tetris",
+      "id": 1
+    }
+  ]
+}
